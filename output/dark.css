@@ -1,11 +1,19 @@
 .dark-theme {
-          --theme-bg-default: #171717;
-  --theme-bg-subtle: #323232;
-  --theme-bg-muted: #757575;
-  --theme-fg-default: #ffffff;
-  --theme-fg-on-accent: #ffffff;
-  --theme-fg-muted: #eeeeee;
-  --theme-fg-subtle: #9e9e9e;
-  --theme-accent-default: #3d53f5;
-  --theme-accent-subtle: #060818;
+          --button-primary-background: #5a67d8;
+  --button-ghost-outline: #ffffff;
+  --button-ghost-text: #ffffff;
+  --border-width-button-ghost: 4px;
+  --border-radius-button-ghost: 8px;
+  --border-radius-card: 4px;
+  --font-sizes-card-title: 13.6;
+  --font-sizes-card-content: 10.4;
+  --box-shadow-default: [object Object],[object Object];
+  --fg-default: #ffffff;
+  --fg-muted: #e2e8f0;
+  --fg-subtle: #a0aec0;
+  --bg-default: #1a202c;
+  --bg-muted: #4a5568;
+  --bg-subtle: #718096;
+  --accent-default: #5a67d8;
+  --shadows-default: #f7fafc;
       }

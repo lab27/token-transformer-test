@@ -1,46 +1,115 @@
 {
-  "theme": {
-    "bg": {
-      "default": {
-        "value": "#171717",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "#323232",
-        "type": "color"
-      },
-      "muted": {
-        "value": "#757575",
+  "button": {
+    "primary": {
+      "background": {
+        "value": "#5a67d8",
         "type": "color"
       }
     },
-    "fg": {
-      "default": {
+    "ghost": {
+      "outline": {
         "value": "#ffffff",
         "type": "color"
       },
-      "onAccent": {
+      "text": {
         "value": "#ffffff",
         "type": "color"
-      },
-      "muted": {
-        "value": "#eeeeee",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "#9e9e9e",
-        "type": "color"
+      }
+    }
+  },
+  "borderWidth": {
+    "button": {
+      "ghost": {
+        "value": 4,
+        "type": "borderWidth"
+      }
+    }
+  },
+  "borderRadius": {
+    "button": {
+      "ghost": {
+        "value": 8,
+        "type": "borderRadius"
       }
     },
-    "accent": {
-      "default": {
-        "value": "#3d53f5",
-        "type": "color"
+    "card": {
+      "value": 4,
+      "type": "borderRadius"
+    }
+  },
+  "fontSizes": {
+    "card": {
+      "title": {
+        "value": 13.6,
+        "type": "fontSizes"
       },
-      "subtle": {
-        "value": "#060818",
-        "type": "color"
+      "content": {
+        "value": 10.4,
+        "type": "fontSizes"
       }
+    }
+  },
+  "boxShadow": {
+    "default": {
+      "value": [
+        {
+          "x": 5,
+          "y": 5,
+          "spread": 3,
+          "color": "#f7fafc26",
+          "blur": 5,
+          "type": "dropShadow"
+        },
+        {
+          "x": 4,
+          "y": 4,
+          "spread": 6,
+          "color": "#00000033",
+          "blur": 5,
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow"
+    }
+  },
+  "fg": {
+    "default": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "muted": {
+      "value": "#e2e8f0",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "#a0aec0",
+      "type": "color"
+    }
+  },
+  "bg": {
+    "default": {
+      "value": "#1a202c",
+      "type": "color"
+    },
+    "muted": {
+      "value": "#4a5568",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "#718096",
+      "type": "color"
+    }
+  },
+  "accent": {
+    "default": {
+      "value": "#5a67d8",
+      "type": "color"
+    }
+  },
+  "shadows": {
+    "default": {
+      "value": "#f7fafc",
+      "type": "color"
     }
   }
 }
