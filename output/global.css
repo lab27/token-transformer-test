@@ -1,10 +1,10 @@
 .global-theme {
-          --spacing-scale: 2.2px;
+          --spacing-scale: 2.3px;
   --spacing-xs: 4px;
-  --spacing-sm: 8.8px;
-  --spacing-md: 19.36px;
-  --spacing-lg: 42.592px;
-  --spacing-xl: 93.702px;
+  --spacing-sm: 9.2px;
+  --spacing-md: 21.16px;
+  --spacing-lg: 48.668px;
+  --spacing-xl: 111.936px;
   --sizing-scale: 1.5px;
   --sizing-xs: 4px;
   --sizing-sm: 6px;

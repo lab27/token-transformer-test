@@ -1,7 +1,7 @@
 {
   "spacing": {
     "scale": {
-      "value": 2.2,
+      "value": 2.3,
       "type": "spacing"
     },
     "xs": {
@@ -9,19 +9,19 @@
       "type": "spacing"
     },
     "sm": {
-      "value": 8.8,
+      "value": 9.2,
       "type": "spacing"
     },
     "md": {
-      "value": 19.36,
+      "value": 21.16,
       "type": "spacing"
     },
     "lg": {
-      "value": 42.592,
+      "value": 48.668,
       "type": "spacing"
     },
     "xl": {
-      "value": 93.702,
+      "value": 111.936,
       "type": "spacing"
     }
   },
